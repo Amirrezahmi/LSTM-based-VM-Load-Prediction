@@ -8,9 +8,16 @@ The LSTM model itself is a sophisticated construct with multiple layers, includi
 
 The following figures give a glimpse into the model's performance:
 
-[Validation Loss vs Training Loss]
+![download (10)](https://github.com/Amirrezahmi/LSTM-based-VM-Load-Prediction/assets/89692207/550d7852-e22b-4adc-a131-09ddf9438774)
 
-[LSTM Predictions]
+
+
+
+
+![download](https://github.com/Amirrezahmi/LSTM-based-VM-Load-Prediction/assets/89692207/3ddbec2c-5f2f-41a8-b009-390fc9a1f78f)
+
+
+
 
 The first figure shows the validation loss versus the training loss during the model's training process. It gives an insight into how our model learns and generalizes, helping us understand and improve its performance.
 
