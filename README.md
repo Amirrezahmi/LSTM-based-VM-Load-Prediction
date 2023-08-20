@@ -8,8 +8,10 @@ The LSTM model itself is a sophisticated construct with multiple layers, includi
 
 The following figures give a glimpse into the model's performance:
 
-![download (10)](https://github.com/Amirrezahmi/LSTM-based-VM-Load-Prediction/assets/89692207/550d7852-e22b-4adc-a131-09ddf9438774)
 
+
+
+![download (9)](https://github.com/Amirrezahmi/LSTM-based-VM-Load-Prediction/assets/89692207/7116fd2c-b3d8-4518-8699-8ef7daffd061)
 
 
 
